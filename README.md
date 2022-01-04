@@ -1,10 +1,10 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👩‍💻 I'm Claudia, a full stack software engineer 
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her/Ella
 - 🤖 Before my transition into STEM, I worked in finance for the last 6 years
 - 🔭 I’m currently working on a few projects using different API's
-- 🌱 I’m currently learning Data Structures & Algorithms
+- 🌱 I’m currently practicing Data Structures & Algorithms
 - When I'm not coding, you can find me running, volunteering, and trying new workout classes
 - 📫 How to reach me: claudia.flores.ua@gmail.com
 
