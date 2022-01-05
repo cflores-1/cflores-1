@@ -5,7 +5,7 @@
 - 🤖 Before my transition into STEM, I worked in finance for the last 6 years
 - 🔭 I’m currently working on a few projects using different API's
 - 🌱 I’m currently practicing Data Structures & Algorithms
-- When I'm not coding, you can find me running, volunteering, and trying new workout classes
+- ⚡  When I'm not coding, you can find me running 🏃‍♀️, hiking ☀️ 🥾, and trying new workout classes 🧘🏽 🏋️‍♀️ 
 - 📫 How to reach me: claudia.flores.ua@gmail.com
 
 - Languages & Tools:
