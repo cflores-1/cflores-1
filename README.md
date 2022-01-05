@@ -8,7 +8,7 @@
 - 🔭 I’m working on a few projects using different API's
 - 🌱 I’m currently practicing Data Structures & Algorithms
 - ⚡  When I'm not coding, you can find me running 🏃‍♀️, hiking ☀️ 🥾, and trying new workout classes 🧘🏽 🏋️‍♀️ 
-- 📫 If you are interested in contacting me for software engineering or development roles, please feel free to reach out to me: [send e-mail](mailto:claudia.flores.ua@gmail.com)
+- 📫 If you are interested in contacting me for software engineering or development roles, please feel free to reach out to me at: claudia.flores.ua@gmail.com
 
 - Languages & Tools:
 
