@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👩‍💻 I'm Claudia, a full stack software engineer and a recent graduate from The Grace Hopper Program at Fullstack Academy
-- 😄 Pronouns: She/Her/Ella
+- 😄 Pronouns: She/Her
 - 🤖 Prior to my shift into software engineering, I spent the last 6 years working in finance. My most recent role was data intensive which led me to learn more about data analytics 📊
 - 💡 In 2020, I completed a data analytics and visualization bootcamp at USC Viterbi School of Engineering while working full-time. After the data analytics program, I wanted to learn more about full stack development and pursue a career in software development full-time.
 - ✨ In 2021, I completed a competitive software engineering bootcamp that empowers women in technology.
