@@ -5,7 +5,7 @@
 - 🤖 Prior to my shift into software engineering, I spent the last 6 years working in finance. My most recent role was data intensive which led me to learn more about data analytics 📊
 - 💡 In 2020, I completed a data analytics and visualization bootcamp at USC Viterbi School of Engineering while working full-time. After the data analytics program, I wanted to learn more about full stack development and pursue a career in software development full-time.
 - ✨ In 2021, I completed a competitive software engineering bootcamp that empowers women in technology.
-- 🔭 I’m working on a few projects using different API's
+- 🔭 I’m working on a few projects using external API's 
 - 🌱 I’m currently practicing Data Structures & Algorithms
 - ⚡  When I'm not coding, you can find me running 🏃‍♀️, hiking ☀️ 🥾, and trying new workout classes 🧘🏽 🏋️‍♀️ 
 - 📫 If you are interested in contacting me for software engineering or development roles, please feel free to reach out to me at: claudia.flores.ua@gmail.com
